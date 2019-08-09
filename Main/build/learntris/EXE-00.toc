@@ -1,5 +1,5 @@
 ('/Users/michaeldang/Documents/Study/Projects '
- '(personal)/LearnTrisChallenge/myfolder/build/learntris/learntris',
+ '(personal)/LearnTrisChallenge/Main/build/learntris/learntris',
  True,
  False,
  True,
@@ -12,7 +12,7 @@
  'learntris.pkg',
  [('PYZ-00.pyz',
    '/Users/michaeldang/Documents/Study/Projects '
-   '(personal)/LearnTrisChallenge/myfolder/build/learntris/PYZ-00.pyz',
+   '(personal)/LearnTrisChallenge/Main/build/learntris/PYZ-00.pyz',
    'PYZ'),
   ('_struct',
    '/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_struct.cpython-37m-darwin.so',
@@ -37,12 +37,12 @@
    'PYSOURCE'),
   ('learntris',
    '/Users/michaeldang/Documents/Study/Projects '
-   '(personal)/LearnTrisChallenge/myfolder/learntris.py',
+   '(personal)/LearnTrisChallenge/Main/learntris.py',
    'PYSOURCE')],
  [],
  False,
  False,
- 1565010731,
+ 1565392921,
  [('run',
    '/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
    'EXECUTABLE')])

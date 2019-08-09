@@ -1,5 +1,5 @@
 ('/Users/michaeldang/Documents/Study/Projects '
- '(personal)/LearnTrisChallenge/myfolder/build/learntris/PKG-00.pkg',
+ '(personal)/LearnTrisChallenge/Main/build/learntris/PKG-00.pkg',
  {'BINARY': 1,
   'DATA': 1,
   'EXECUTABLE': 1,
@@ -9,7 +9,7 @@
   'PYZ': 0},
  [('PYZ-00.pyz',
    '/Users/michaeldang/Documents/Study/Projects '
-   '(personal)/LearnTrisChallenge/myfolder/build/learntris/PYZ-00.pyz',
+   '(personal)/LearnTrisChallenge/Main/build/learntris/PYZ-00.pyz',
    'PYZ'),
   ('_struct',
    '/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload/_struct.cpython-37m-darwin.so',
@@ -34,7 +34,7 @@
    'PYSOURCE'),
   ('learntris',
    '/Users/michaeldang/Documents/Study/Projects '
-   '(personal)/LearnTrisChallenge/myfolder/learntris.py',
+   '(personal)/LearnTrisChallenge/Main/learntris.py',
    'PYSOURCE')],
  True,
  False,

@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['learntris.py'],
-             pathex=['/Users/michaeldang/Documents/Study/Projects (personal)/LearnTrisChallenge/myfolder'],
+             pathex=['/Users/michaeldang/Documents/Study/Projects (personal)/LearnTrisChallenge/Main'],
              binaries=[],
              datas=[],
              hiddenimports=[],
